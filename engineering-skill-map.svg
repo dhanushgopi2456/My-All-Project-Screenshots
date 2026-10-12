@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="620" viewBox="0 0 1100 620">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#fff8ff"/><stop offset="100%" stop-color="#f1e7ff"/>
+  </linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+    <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#172033" flood-opacity=".15"/>
+  </filter>
+  <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+    <path d="M0,0 L10,5 L0,10 Z" fill="#64748b"/>
+  </marker>
+</defs>
+<rect width="100%" height="100%" rx="24" fill="url(#bg)"/>
+<text x="550" y="45" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#581c87">ENGINEERING SKILL MAP</text>
+<text x="550" y="72" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#80638e">Frontend • Backend • AI/ML • Tools • Databases</text>
+<g fill="none" stroke="#64748b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)">
+<path d="M550.0,158 L550.0,192.65 L200.0,192.65 L200.0,227"/>
+<path d="M550.0,158 L550.0,192.65 L455.0,192.65 L455.0,227"/>
+<path d="M550.0,158 L550.0,192.65 L730.0,192.65 L730.0,227"/>
+<path d="M550.0,158 L550.0,192.65 L965.0,192.65 L965.0,227"/>
+<path d="M200.0,293 L200.0,329.9 L172.5,329.9 L172.5,367"/>
+<path d="M455.0,293 L455.0,329.9 L442.5,329.9 L442.5,367"/>
+<path d="M730.0,293 L730.0,329.9 L712.5,329.9 L712.5,367"/>
+<path d="M965.0,293 L965.0,329.9 L960.0,329.9 L960.0,367"/>
+<path d="M172.5,433 L172.5,467.65 L550.0,467.65 L550.0,502"/>
+<path d="M442.5,433 L442.5,467.65 L550.0,467.65 L550.0,502"/>
+<path d="M712.5,433 L712.5,467.65 L550.0,467.65 L550.0,502"/>
+<path d="M960.0,433 L960.0,467.65 L550.0,467.65 L550.0,502"/>
+</g>
+<g filter="url(#shadow)"><rect x="410" y="100" width="280" height="58" rx="10" fill="#f3e8ff" stroke="#9333ea" stroke-width="1.6"/></g>
+<text x="428" y="135.0" font-family="Segoe UI Emoji,Apple Color Emoji,Arial,sans-serif" font-size="18" fill="#9333ea">🧑‍💻</text>
+<text x="558.0" y="134.0" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" fill="#581c87">🧑‍💻 Software Engineering</text>
+<g filter="url(#shadow)"><rect x="90" y="235" width="220" height="58" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="1.6"/></g>
+<text x="108" y="270.0" font-family="Segoe UI Emoji,Apple Color Emoji,Arial,sans-serif" font-size="18" fill="#2563eb">🎨</text>
+<text x="208.0" y="269.0" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" fill="#1e3a8a">🎨 Frontend</text>
+<g filter="url(#shadow)"><rect x="345" y="235" width="220" height="58" rx="10" fill="#fae8ff" stroke="#c026d3" stroke-width="1.6"/></g>
+<text x="363" y="270.0" font-family="Segoe UI Emoji,Apple Color Emoji,Arial,sans-serif" font-size="18" fill="#c026d3">⚙</text>
+<text x="463.0" y="269.0" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" fill="#701a75">⚙ Backend</text>
+<g filter="url(#shadow)"><rect x="600" y="235" width="260" height="58" rx="10" fill="#fce7f3" stroke="#db2777" stroke-width="1.6"/></g>
+<text x="618" y="270.0" font-family="Segoe UI Emoji,Apple Color Emoji,Arial,sans-serif" font-size="18" fill="#db2777">🤖</text>
+<text x="738.0" y="269.0" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" fill="#831843">🤖 AI / Machine Learning</text>
+<g filter="url(#shadow)"><rect x="875" y="235" width="180" height="58" rx="10" fill="#cffafe" stroke="#0891b2" stroke-width="1.6"/></g>
+<text x="893" y="270.0" font-family="Segoe UI Emoji,Apple Color Emoji,Arial,sans-serif" font-size="18" fill="#0891b2">🔧</text>
+<text x="973.0" y="269.0" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" fill="#164e63">🔧 Developer Tools</text>
+<g filter="url(#shadow)"><rect x="45" y="375" width="255" height="58" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="1.6"/></g>
+<text x="63" y="410.0" font-family="Segoe UI Emoji,Apple Color Emoji,Arial,sans-serif" font-size="18" fill="#2563eb">⚛</text>
+<text x="180.5" y="409.0" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" fill="#1e3a8a">React · TypeScript · Tailwind</text>
+<g filter="url(#shadow)"><rect x="315" y="375" width="255" height="58" rx="10" fill="#fae8ff" stroke="#c026d3" stroke-width="1.6"/></g>
+<text x="333" y="410.0" font-family="Segoe UI Emoji,Apple Color Emoji,Arial,sans-serif" font-size="18" fill="#c026d3">🟢</text>
+<text x="450.5" y="409.0" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" fill="#701a75">Node.js · Express · REST APIs</text>
+<g filter="url(#shadow)"><rect x="585" y="375" width="255" height="58" rx="10" fill="#fce7f3" stroke="#db2777" stroke-width="1.6"/></g>
+<text x="603" y="410.0" font-family="Segoe UI Emoji,Apple Color Emoji,Arial,sans-serif" font-size="18" fill="#db2777">👁</text>
+<text x="720.5" y="409.0" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" fill="#831843">PyTorch · YOLOv9 · OpenCV</text>
+<g filter="url(#shadow)"><rect x="855" y="375" width="210" height="58" rx="10" fill="#cffafe" stroke="#0891b2" stroke-width="1.6"/></g>
+<text x="873" y="410.0" font-family="Segoe UI Emoji,Apple Color Emoji,Arial,sans-serif" font-size="18" fill="#0891b2">🔗</text>
+<text x="968.0" y="409.0" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" fill="#164e63">Git · GitHub · Postman</text>
+<g filter="url(#shadow)"><rect x="330" y="510" width="440" height="58" rx="10" fill="#f3e8ff" stroke="#9333ea" stroke-width="1.6"/></g>
+<text x="348" y="545.0" font-family="Segoe UI Emoji,Apple Color Emoji,Arial,sans-serif" font-size="18" fill="#9333ea">🗃</text>
+<text x="558.0" y="544.0" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" fill="#581c87">🗃 PostgreSQL · MongoDB · MySQL</text>
+<text x="550" y="602" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#80638e">Architecture-style flowchart • colored nodes • directional arrows</text></svg>
