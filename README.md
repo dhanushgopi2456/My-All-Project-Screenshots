@@ -83,7 +83,7 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushgopi2456&bg_color=0f172a&color=38bdf8&line=6366f1&point=22d3ee&area=true&hide_border=true&custom_title=THE%20JOURNEY%20OF%20BUILDING" width="100%" alt="GitHub activity graph"/>
+<img src="https://github-readme-activity-graph-kappa-nine.vercel.app/graph?username=dhanushgopi2456&theme=github-compact&area=false&hide_border=true&custom_title=Dhanush%20Gopi%20Kavala's%20Contribution%20Activity" width="100%" alt="GitHub activity graph"/>
 
 </div>
 
