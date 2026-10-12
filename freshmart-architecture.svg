@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="620" viewBox="0 0 1100 620">
+
+    <defs>
+      <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+        <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#152238" flood-opacity=".16"/>
+      </filter>
+      <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+        <path d="M0,0 L10,5 L0,10 z" fill="#64748b"/>
+      </marker>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#f4fff9"/>
+        <stop offset="100%" stop-color="#d1fae5"/>
+      </linearGradient>
+    </defs>
+<rect width="1100" height="620" rx="24" fill="url(#bg)"/>
+<text x="550.0" y="48" font-family="Inter,Segoe UI,Arial" font-size="25" font-weight="700" fill="#064e3b" text-anchor="middle">FRESHMART E-COMMERCE ARCHITECTURE</text>
+<text x="550.0" y="75" font-family="Inter,Segoe UI,Arial" font-size="13" fill="#477568" text-anchor="middle">Customer shopping journey • Admin operations • Secure backend</text>
+<g fill="none" stroke="#64748b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)">
+<path d="M550.0,154 L550.0,182"/>
+<path d="M550.0,244 L550.0,272"/>
+<path d="M550.0,334 L550.0,362.0 L215.0,362.0 L215.0,382"/>
+<path d="M550.0,334 L550.0,362.0 L445.0,362.0 L445.0,382"/>
+<path d="M550.0,334 L550.0,362.0 L675.0,362.0 L675.0,382"/>
+<path d="M550.0,334 L550.0,362.0 L905.0,362.0 L905.0,382"/>
+<path d="M445.0,444 L445.0,472.0 L550.0,472.0 L550.0,492"/>
+<path d="M675.0,444 L675.0,472.0 L550.0,472.0 L550.0,492"/>
+<path d="M905.0,444 L905.0,472.0 L550.0,472.0 L550.0,492"/>
+</g>
+<g filter="url(#shadow)"><rect x="440" y="100" width="220" height="54" rx="12" fill="#d1fae5" stroke="#059669" stroke-width="1.6"/></g>
+<text x="458" y="132.0" font-family="Segoe UI Emoji,Apple Color Emoji,Arial" font-size="17" fill="#059669">👤</text>
+<text x="558.0" y="132.0" font-family="Inter,Segoe UI,Arial" font-size="15" font-weight="600" fill="#064e3b" text-anchor="middle">Customer</text>
+<g filter="url(#shadow)"><rect x="440" y="190" width="220" height="54" rx="12" fill="#ccfbf1" stroke="#0d9488" stroke-width="1.6"/></g>
+<text x="458" y="222.0" font-family="Segoe UI Emoji,Apple Color Emoji,Arial" font-size="17" fill="#0d9488">⚛</text>
+<text x="558.0" y="222.0" font-family="Inter,Segoe UI,Arial" font-size="15" font-weight="600" fill="#134e4a" text-anchor="middle">React + TypeScript UI</text>
+<g filter="url(#shadow)"><rect x="440" y="280" width="220" height="54" rx="12" fill="#dcfce7" stroke="#16a34a" stroke-width="1.6"/></g>
+<text x="458" y="312.0" font-family="Segoe UI Emoji,Apple Color Emoji,Arial" font-size="17" fill="#16a34a">⚙</text>
+<text x="558.0" y="312.0" font-family="Inter,Segoe UI,Arial" font-size="15" font-weight="600" fill="#14532d" text-anchor="middle">Express REST API</text>
+<g filter="url(#shadow)"><rect x="110" y="390" width="210" height="54" rx="12" fill="#ecfdf5" stroke="#10b981" stroke-width="1.6"/></g>
+<text x="128" y="422.0" font-family="Segoe UI Emoji,Apple Color Emoji,Arial" font-size="17" fill="#10b981">🔐</text>
+<text x="223.0" y="422.0" font-family="Inter,Segoe UI,Arial" font-size="15" font-weight="600" fill="#065f46" text-anchor="middle">JWT + RBAC</text>
+<g filter="url(#shadow)"><rect x="340" y="390" width="210" height="54" rx="12" fill="#d1fae5" stroke="#059669" stroke-width="1.6"/></g>
+<text x="358" y="422.0" font-family="Segoe UI Emoji,Apple Color Emoji,Arial" font-size="17" fill="#059669">🛍</text>
+<text x="453.0" y="422.0" font-family="Inter,Segoe UI,Arial" font-size="15" font-weight="600" fill="#064e3b" text-anchor="middle">Product Catalog</text>
+<g filter="url(#shadow)"><rect x="570" y="390" width="210" height="54" rx="12" fill="#ccfbf1" stroke="#0d9488" stroke-width="1.6"/></g>
+<text x="588" y="422.0" font-family="Segoe UI Emoji,Apple Color Emoji,Arial" font-size="17" fill="#0d9488">🛒</text>
+<text x="683.0" y="422.0" font-family="Inter,Segoe UI,Arial" font-size="15" font-weight="600" fill="#134e4a" text-anchor="middle">Cart + Orders</text>
+<g filter="url(#shadow)"><rect x="800" y="390" width="210" height="54" rx="12" fill="#dcfce7" stroke="#16a34a" stroke-width="1.6"/></g>
+<text x="818" y="422.0" font-family="Segoe UI Emoji,Apple Color Emoji,Arial" font-size="17" fill="#16a34a">👑</text>
+<text x="913.0" y="422.0" font-family="Inter,Segoe UI,Arial" font-size="15" font-weight="600" fill="#14532d" text-anchor="middle">Admin Dashboard</text>
+<g filter="url(#shadow)"><rect x="440" y="500" width="220" height="54" rx="12" fill="#ecfdf5" stroke="#10b981" stroke-width="1.6"/></g>
+<text x="458" y="532.0" font-family="Segoe UI Emoji,Apple Color Emoji,Arial" font-size="17" fill="#10b981">🗄</text>
+<text x="558.0" y="532.0" font-family="Inter,Segoe UI,Arial" font-size="15" font-weight="600" fill="#065f46" text-anchor="middle">MongoDB + Mongoose</text>
+<text x="550.0" y="600" font-family="Inter,Segoe UI,Arial" font-size="11" fill="#477568" text-anchor="middle">Architecture overview • colored components • directional request flow</text>
+</svg>
